@@ -1,2 +1,4 @@
-# ink-painting-game
+# finding-time
+
+ink painting game
  
